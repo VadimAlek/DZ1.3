@@ -38,9 +38,19 @@ public class Main {
 
         //task4
         //Пройдитесь по первому целочисленному массиву и все нечетные числа в нем сделайте четными (нужно прибавить 1).
-        System.out.println ((num1[0]+1), ",", num1[1], num1[2]+1));
-            }
+        if (num1[0] == 1){
+            System.out.print((num1[0]+1) +",");};
+        if (num1[1] ==2){
+            System.out.print("2" + ",");}
+        if (num1[2] == 3) {
+            System.out.print((num1[2]+1) + ",");
         }
+        }
+        }
+
+
+
+
 
 
 
